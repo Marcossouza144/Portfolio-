@@ -1,0 +1,129 @@
+body {
+    background-color: #b2b2b2; 
+
+}
+
+body {
+   color: #000000;
+}
+
+.contato a {
+
+   text-decoration: none;
+   padding: 7px 20px 1px 9px;
+   transition: 0.5s;
+   border-radius: 80px;
+   background-color: #b2b2b2;
+   display: inline-block;
+   width: 10px;
+   transition-duration: 0.3ms;
+}
+
+.contato a:hover {
+   background-color: #444444;
+}
+
+.traco {
+   background-color: #000000;
+   border-width: 1px;
+   border-style: initial;
+   height: 2px;
+
+}
+
+.Bem-Vindo {
+
+   text-align: center;
+   font-family: 'Courier New';
+   font-size: 23px;
+
+}
+
+.quemsou {
+
+   font-family: 'Courier New', Courier, monospace, Times, serif;
+   font-size: 15px;
+   text-align: left;
+
+
+}
+
+.titulo2 {
+   font-family: 'Courier New', Courier, monospace;
+   padding-top: 400px;
+   font-size: 50px;
+
+}
+
+.espaco {
+   padding: 480px 0px 0px 0px;
+
+}
+
+.traco2 {
+   background-color: #000000;
+   border-width: 1px;
+   border-style: initial;
+   height: 2px;
+}
+
+.quemsoueu {
+   font-family: 'Courier New';
+}
+
+.container {
+   font-family: 'Courier New';
+   text-align: center;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   padding-top: 380px;
+   border-radius: 80px;
+   height: 400px;
+   font-size: 30px;
+
+}
+
+.container-img a img {
+   font-family: 'Courier New';
+   height: 60px;
+   background-color: #b5b5b5;
+   border-radius: 90px;
+
+}
+
+.container-img a img:hover {
+   background-color: #b5b5b5;
+   color: #ffffff;
+}
+
+.contato {
+   font-family: 'Courier New';
+   color: #000000;
+
+}
+
+a:hover {
+   color: #000000;
+}
+
+.contato a {
+   text-decoration: none;
+   color: #000000;
+}
+
+.inicio {
+   font-family: 'Courier New', Courier, monospace, Times, serif;
+   font-size: 15px;
+   text-align: left;
+   padding-top: 80px;
+}
+.titulo1{
+font-size: 40px;
+}
+.traco1 p{
+   background-color: #000000;
+   border-width: 1px;
+   border-style: initial;
+   height: 2px;
+}
